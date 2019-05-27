@@ -26,10 +26,10 @@ define('DB_NAME', 'wpblog');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'wwt1994512012WU');
+define('DB_PASSWORD', 'root');
 
 /** MySQL主机 */
-define('DB_HOST', 'rm-wz92savn814517w0jto.mysql.rds.aliyuncs.com');
+define('DB_HOST', '127.0.0.1');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
