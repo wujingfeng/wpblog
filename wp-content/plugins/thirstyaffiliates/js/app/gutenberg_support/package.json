@@ -16,7 +16,7 @@
         "css-loader": "^0.28.1",
         "eslint": "^3.19.0",
         "extract-text-webpack-plugin": "^2.1.0",
-        "lodash": "4.17.10",
+        "lodash": "4.17.21",
         "node-sass": "^4.5.2",
         "sass-loader": "^6.0.5",
         "uglifyjs-webpack-plugin": "^0.4.3",
